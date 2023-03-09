@@ -1,8 +1,8 @@
 /**
 * @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
+* @author coldplay <https://github.com/coldplay>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+* @link <https://github.com/BlackAmda/coldplay>
 * @version 4.0.6
 * @file  db.js - All Queen Amdi Databases chart.
 
